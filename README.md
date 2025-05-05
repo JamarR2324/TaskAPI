@@ -2,13 +2,13 @@
 
 This is a minimal REST API built with Spring Boot for managing tasks.
 
-## ✨ Features
+## Features
 
 - Create, retrieve, update, and delete tasks
 - In-memory storage (ArrayList-based)
 - Built entirely with standard Spring Boot tools
 
-## 🚀 Getting Started
+## Getting Started
 
 ```bash
 mvn spring-boot:run
@@ -22,7 +22,7 @@ Once it's running, hit these endpoints:
 - `PUT /tasks/{id}` - update
 - `DELETE /tasks/{id}` - delete
 
-## 📁 Structure
+## Structure
 
 - `TaskController` - API endpoints
 - `Task` - simple POJO model
@@ -30,4 +30,4 @@ Once it's running, hit these endpoints:
 
 ---
 
-Cleanly built for real-world experience.
+Created by Jamar Robinson Jr. 
